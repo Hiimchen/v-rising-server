@@ -1,0 +1,25 @@
+﻿{
+  "Name": "hiimchen_server",
+  "Description": "",
+  "Port": 9876,
+  "QueryPort": 9877,
+  "MaxConnectedUsers": 40,
+  "MaxConnectedAdmins": 4,
+  "ServerFps": 30,
+  "SaveName": "hiimchen",
+  "Password": "156",
+  "Secure": true,
+  "ListOnSteam": true,
+  "ListOnEOS": true,
+  "AutoSaveCount": 10,
+  "AutoSaveInterval": 120,
+  "CompressSaveFiles": true,
+  "GameSettingsPreset": "",
+  "AdminOnlyDebugEvents": true,
+  "DisableDebugEvents": false,
+  "Rcon": {
+    "Enabled": false,
+    "Port": 25575,
+    "Password": ""
+  }
+}
